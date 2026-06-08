@@ -1,0 +1,31 @@
+{
+  "timestamp": "2026-06-08T09:09:51.993432",
+  "feature_drift": {
+    "perch": {
+      "baseline_mean": 11.51,
+      "current_mean": 11.51,
+      "deviation_pct": 0.0,
+      "drift_detected": 0
+    },
+    "bedrooms": {
+      "baseline_mean": 3.9,
+      "current_mean": 3.9,
+      "deviation_pct": 0.04,
+      "drift_detected": 0
+    },
+    "bathrooms": {
+      "baseline_mean": 2.5,
+      "current_mean": 3.17,
+      "deviation_pct": 26.87,
+      "drift_detected": 1
+    }
+  },
+  "prediction_drift": {
+    "baseline_price_mean": 15981420,
+    "current_price_mean": 15818581.0,
+    "deviation_pct": 1.02,
+    "drift_detected": 0,
+    "current_std": 12411025.0
+  },
+  "retrain_recommended": true
+}
