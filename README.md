@@ -151,3 +151,12 @@ curl http://localhost:8000/health
 ## Dataset
 
 **Source:** [House Prices in Sri Lanka (Kaggle)](https://www.kaggle.com/datasets/dewminimnaadi/house-prices-in-sri-lanka)
+
+## Preview
+<img width="1919" height="991" alt="Screenshot 2026-06-18 103617" src="https://github.com/user-attachments/assets/8ae83afd-b4bf-4949-a493-c6cee44a6a0d" />
+<img width="1919" height="990" alt="Screenshot 2026-06-18 103731" src="https://github.com/user-attachments/assets/e0acb90f-0406-4583-9fc6-a57411785d8c" />
+<img width="1900" height="987" alt="Screenshot 2026-06-18 103929" src="https://github.com/user-attachments/assets/52f576f6-2b11-4e5a-993c-571973654aff" />
+<img width="1899" height="984" alt="Screenshot 2026-06-18 104008" src="https://github.com/user-attachments/assets/ed427202-3512-4e8c-9bca-e64d45c949e0" />
+
+
+
